@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         spinner.setAdapter(adapter);
 
         // TODO: Set an OnItemSelected listener on the spinner
-
+        //New comment
     }
 
     // TODO: complete the letsDoSomeNetworking() method
